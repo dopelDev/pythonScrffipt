@@ -1,4 +1,4 @@
-#!/home/dopel/venv/scripts/bin/python3.8
+#!/home/dopel/venv/scripts/bin/python3.9
 ################################################
 #       __                 ______
 #  ____/ /___  ____  ___  / / __ \___ _   __
