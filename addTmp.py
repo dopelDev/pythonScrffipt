@@ -1,4 +1,4 @@
-#!/home/dopel/venv/scripts/bin/python3.8
+#!/home/dopel/venv/scripts/bin/python3.9
 
 from os import listdir, getcwd, remove, stat
 from os.path import exists

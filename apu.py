@@ -1,4 +1,4 @@
-#!/home/dopel/venv/scripts/bin/python3.8
+#!/home/dopel/venv/scripts/bin/python3.9
 
 from sys import argv
 from os import getcwd, mkdir, chdir, makedirs
